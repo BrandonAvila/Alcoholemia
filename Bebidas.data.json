@@ -1,0 +1,6 @@
+[{"id":1,"Bebida":"Cerveza","Mililitros":330,"Grados":5},
+{"id":2,"Bebida":"Vino/Cava","Mililitros":100,"Grados":12},
+{"id":3,"Bebida":"Vermú","Mililitros":70,"Grados":17},
+{"id":4,"Bebida":"Licor","Mililitros":45,"Grados":23},
+{"id":5,"Bebida":"Brandy","Mililitros":45,"Grados":38},
+{"id":6,"Bebida":"Combinado","Mililitros":50,"Grados":38}]
